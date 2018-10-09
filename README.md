@@ -17,8 +17,9 @@ These are some libraries and its version  which I use during this learning.
 
 ## References
 
-_Coming soon.._
-
+- [Flyway Get Started](https://flywaydb.org/getstarted/)
+- [Database Migrations with Flyway](https://www.baeldung.com/database-migrations-with-flyway)
+- [Spring Boot Database Migrations with Flyway](https://www.callicoder.com/spring-boot-flyway-database-migration-example/)
 
 ## Copyright and License
 
