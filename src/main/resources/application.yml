@@ -1,7 +1,11 @@
+# General Setup
+# =============
 info:
   app:
     description: Learning Flyway with Spring Boot 2
 
+# Spring Framework Setup
+# ======================
 spring:
   application:
     name: learn-flyway
@@ -14,3 +18,8 @@ spring:
         show_sql: false
     hibernate:
       ddl-auto: validate
+  # remark because using embedded H2DB
+  #flyway:
+  #  user: admin
+  #  password: password
+  #  schemas: test
