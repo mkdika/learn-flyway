@@ -17,7 +17,7 @@ These are some libraries and its version  which I use during this learning.
 
 ## References
 
-_ Coming soon.._
+_Coming soon.._
 
 
 ## Copyright and License
